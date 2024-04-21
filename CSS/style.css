@@ -1,0 +1,47 @@
+html{
+        font-size: 62.5%;
+}
+
+body{
+    font-size: 16px; /* un rem = 10px*/
+}
+
+.titulo{
+    text-align: center;
+    font-size: 23.8rem;
+    color: red;
+}
+
+h2{
+    font-size: 3.4rem;   
+    color: blue;
+}
+
+
+h1 span{
+    font-size: 2rem;
+}
+
+
+/*
+.cliente{
+    color: blue;
+}
+
+#cliente{
+    color: blue;
+}
+
+[src="images.jpeg"]{
+    color: blue;
+}
+
+.cliente .nombre{
+    color: blue;
+}
+
+.cliente >p{
+    color: red;
+}
+
+*/
